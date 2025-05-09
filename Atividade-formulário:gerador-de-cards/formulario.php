@@ -32,7 +32,7 @@
                     <input class="input rounded-md bg-gray-200 placeholder-gray-500 ml-2 pl-2" type="text" name="link" placeholder="Insira o link da foto dele(a)" />
                     <br><br>
 
-                    <input class="input rounded-md bg-gray-200 placeholder-gray-500 ml-2 pl-2" type="text" name="raca" placeholder="Insira a raça dele(a)" />
+                    <input class="input rounded-md bg-gray-200 placeholder-gray-500 ml-2 pl-2" type="text" name="raca" placeholder="Insira a espécie dele(a)" />
                     <br><br>
             </div>
 
